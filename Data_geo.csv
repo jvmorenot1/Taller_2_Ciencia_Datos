@@ -1,0 +1,198 @@
+﻿name;eight_regions;World bank, 4 income groups 2017
+Australia;east_asia_pacific;High income
+Brunei;east_asia_pacific;High income
+Cambodia;east_asia_pacific;Lower middle income
+China;east_asia_pacific;Upper middle income
+Fiji;east_asia_pacific;Upper middle income
+Hong Kong, China;east_asia_pacific;High income
+Indonesia;east_asia_pacific;Lower middle income
+Japan;east_asia_pacific;High income
+Kiribati;east_asia_pacific;Lower middle income
+North Korea;east_asia_pacific;Low income
+South Korea;east_asia_pacific;High income
+Lao;east_asia_pacific;Lower middle income
+Malaysia;east_asia_pacific;Upper middle income
+Marshall Islands;east_asia_pacific;Upper middle income
+Micronesia, Fed. Sts.;east_asia_pacific;Lower middle income
+Mongolia;east_asia_pacific;Lower middle income
+Myanmar;east_asia_pacific;Lower middle income
+Nauru;east_asia_pacific;Upper middle income
+New Zealand;east_asia_pacific;High income
+Palau;east_asia_pacific;High income
+Papua New Guinea;east_asia_pacific;Lower middle income
+Philippines;east_asia_pacific;Lower middle income
+Samoa;east_asia_pacific;Upper middle income
+Singapore;east_asia_pacific;High income
+Solomon Islands;east_asia_pacific;Lower middle income
+Taiwan;east_asia_pacific;High income
+Thailand;east_asia_pacific;Upper middle income
+Timor-Leste;east_asia_pacific;Lower middle income
+Tonga;east_asia_pacific;Upper middle income
+Tuvalu;east_asia_pacific;Upper middle income
+Vanuatu;east_asia_pacific;Lower middle income
+Vietnam;east_asia_pacific;Lower middle income
+Albania;europe_east;Upper middle income
+Andorra;europe_west;High income
+Armenia;europe_east;Lower middle income
+Austria;europe_west;High income
+Azerbaijan;europe_east;Upper middle income
+Belarus;europe_east;Upper middle income
+Belgium;europe_west;High income
+Bosnia and Herzegovina;europe_east;Upper middle income
+Bulgaria;europe_east;Upper middle income
+Croatia;europe_east;Upper middle income
+Cyprus;europe_west;High income
+Czech Republic;europe_east;High income
+Denmark;europe_west;High income
+Estonia;europe_east;High income
+Finland;europe_east;High income
+France;europe_west;High income
+Georgia;europe_east;Lower middle income
+Germany;europe_west;High income
+Greece;europe_west;High income
+Hungary;europe_east;High income
+Iceland;europe_west;High income
+Ireland;europe_west;High income
+Italy;europe_west;High income
+Kazakhstan;asia_west;Upper middle income
+Kyrgyz Republic;asia_west;Lower middle income
+Latvia;europe_east;High income
+Liechtenstein;europe_west;High income
+Lithuania;europe_east;High income
+Luxembourg;europe_west;High income
+Macedonia, FYR;europe_east;Upper middle income
+Moldova;europe_east;Lower middle income
+Monaco;europe_west;High income
+Montenegro;europe_east;Upper middle income
+Netherlands;europe_west;High income
+Norway;europe_west;High income
+Poland;europe_west;High income
+Portugal;europe_west;High income
+Romania;europe_east;Upper middle income
+Russia;europe_east;Upper middle income
+San Marino;europe_west;High income
+Serbia;europe_east;Upper middle income
+Slovak Republic;europe_east;High income
+Slovenia;europe_east;High income
+Spain;europe_west;High income
+Sweden;europe_west;High income
+Switzerland;europe_west;High income
+Tajikistan;asia_west;Lower middle income
+Turkey;europe_east;Upper middle income
+Turkmenistan;asia_west;Upper middle income
+Ukraine;europe_east;Lower middle income
+United Kingdom;europe_west;High income
+Uzbekistan;asia_west;Lower middle income
+Antigua and Barbuda;america_north;High income
+Argentina;america_south;Upper middle income
+Bahamas;america_north;High income
+Barbados;america_north;High income
+Belize;america_north;Upper middle income
+Bolivia;america_south;Lower middle income
+Brazil;america_south;Upper middle income
+Chile;america_south;High income
+Colombia;america_south;Upper middle income
+Costa Rica;america_north;Upper middle income
+Cuba;america_north;Upper middle income
+Dominica;america_north;Upper middle income
+Dominican Republic;america_north;Upper middle income
+Ecuador;america_south;Upper middle income
+El Salvador;america_north;Lower middle income
+Grenada;america_north;Upper middle income
+Guatemala;america_north;Lower middle income
+Guyana;america_south;Upper middle income
+Haiti;america_north;Low income
+Honduras;america_north;Lower middle income
+Jamaica;america_north;Upper middle income
+Mexico;america_north;Upper middle income
+Nicaragua;america_north;Lower middle income
+Panama;america_north;Upper middle income
+Paraguay;america_south;Upper middle income
+Peru;america_south;Upper middle income
+St. Kitts and Nevis;america_north;High income
+St. Lucia;america_north;Upper middle income
+St. Vincent and the Grenadines;america_north;Upper middle income
+Suriname;america_south;Upper middle income
+Trinidad and Tobago;america_north;High income
+Uruguay;america_south;High income
+Venezuela;america_south;Upper middle income
+Algeria;africa_north;Upper middle income
+Bahrain;asia_west;High income
+Djibouti;africa_north;Lower middle income
+Egypt;africa_north;Lower middle income
+Iran;asia_west;Upper middle income
+Iraq;asia_west;Upper middle income
+Israel;asia_west;High income
+Jordan;asia_west;Lower middle income
+Kuwait;asia_west;High income
+Lebanon;asia_west;Upper middle income
+Libya;africa_north;Upper middle income
+Malta;europe_west;High income
+Morocco;africa_north;Lower middle income
+Oman;asia_west;High income
+Qatar;asia_west;High income
+Saudi Arabia;asia_west;High income
+Syria;asia_west;Lower middle income
+Tunisia;africa_north;Lower middle income
+United Arab Emirates;asia_west;High income
+Palestine;asia_west;Lower middle income
+Yemen;asia_west;Lower middle income
+Canada;america_north;High income
+United States;america_north;High income
+Afghanistan;asia_west;Low income
+Bangladesh;asia_west;Lower middle income
+Bhutan;asia_west;Lower middle income
+India;asia_west;Lower middle income
+Maldives;asia_west;Upper middle income
+Nepal;asia_west;Low income
+Pakistan;asia_west;Lower middle income
+Sri Lanka;asia_west;Lower middle income
+Angola;africa_sub_saharan;Lower middle income
+Benin;africa_sub_saharan;Low income
+Botswana;africa_sub_saharan;Upper middle income
+Burkina Faso;africa_sub_saharan;Low income
+Burundi;africa_sub_saharan;Low income
+Cameroon;africa_sub_saharan;Lower middle income
+Cape Verde;africa_sub_saharan;Lower middle income
+Central African Republic;africa_sub_saharan;Low income
+Chad;africa_sub_saharan;Low income
+Comoros;africa_sub_saharan;Low income
+Congo, Dem. Rep.;africa_sub_saharan;Low income
+Congo, Rep.;africa_sub_saharan;Lower middle income
+Cote d'Ivoire;africa_sub_saharan;Lower middle income
+Equatorial Guinea;africa_sub_saharan;Upper middle income
+Eritrea;africa_sub_saharan;Low income
+Ethiopia;africa_sub_saharan;Low income
+Gabon;africa_sub_saharan;Upper middle income
+Gambia;africa_sub_saharan;Low income
+Ghana;africa_sub_saharan;Lower middle income
+Guinea;africa_sub_saharan;Low income
+Guinea-Bissau;africa_sub_saharan;Low income
+Kenya;africa_sub_saharan;Lower middle income
+Lesotho;africa_sub_saharan;Lower middle income
+Liberia;africa_sub_saharan;Low income
+Madagascar;africa_sub_saharan;Low income
+Malawi;africa_sub_saharan;Low income
+Mali;africa_sub_saharan;Low income
+Mauritania;africa_sub_saharan;Lower middle income
+Mauritius;africa_sub_saharan;Upper middle income
+Mozambique;africa_sub_saharan;Low income
+Namibia;africa_sub_saharan;Upper middle income
+Niger;africa_sub_saharan;Low income
+Nigeria;africa_sub_saharan;Lower middle income
+Rwanda;africa_sub_saharan;Low income
+Sao Tome and Principe;africa_sub_saharan;Lower middle income
+Senegal;africa_sub_saharan;Low income
+Seychelles;africa_sub_saharan;High income
+Sierra Leone;africa_sub_saharan;Low income
+Somalia;africa_sub_saharan;Low income
+South Africa;africa_sub_saharan;Upper middle income
+Sudan;africa_sub_saharan;Lower middle income
+Swaziland;africa_sub_saharan;Lower middle income
+Tanzania;africa_sub_saharan;Low income
+Togo;africa_sub_saharan;Low income
+Uganda;africa_sub_saharan;Low income
+Zambia;africa_sub_saharan;Lower middle income
+Zimbabwe;africa_sub_saharan;Low income
+South Sudan;africa_sub_saharan;Low income
+Holy See;europe_west;High income
